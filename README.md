@@ -1,5 +1,3 @@
-### Hi there 👋
-
 | <a href="https://github.com/niclashogh"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niclashogh&count_private=true&hide_border=true" alt="Niclas' stats" /></a> | <a href="https://github.com/niclashogh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclashogh&layout=donut&langs_count=5&size_weight=1&count_weight=0&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
